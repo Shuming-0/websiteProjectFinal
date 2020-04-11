@@ -1,0 +1,27 @@
+
+body{
+	margin: 0;
+	padding: 0;
+	background: url(background.jpg) no-repeat;
+    background-size:100% 100%;
+    
+}
+
+.aboutme{
+    width: 730px;
+	background: rgba(0,0,0,0.4);
+	padding: 40px;
+	margin: auto;
+	margin-top:5%;
+	color:white;
+	font-family:'Helvetica',sans-serif;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.box-img{
+	border-radius: 8px;
+	width: 400px;
+	height: 550px;
+	text-align: center;
+}

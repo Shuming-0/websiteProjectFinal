@@ -1,0 +1,19 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: url(background.jpg) no-repeat;
+	background-size:cover;
+}
+
+
+.homepage{
+	width: 730px;
+	background:(0,0,0,0);
+	padding: 40px;
+	margin: auto;
+	margin-top:5%;
+	color:white;
+	font-family:'Helvetica',sans-serif;
+    border-radius: 8px;
+    text-align: center;
+}
